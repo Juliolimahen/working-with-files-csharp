@@ -5,16 +5,20 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-
-namespace working_with_file.FileAndFileInfo
+namespace working_with_file
 {
-    public class Demo2 : Demo1
+    /// <summary>
+    /// Classe para testar o uso da classe File, para aprendizado
+    /// </summary>
+    public class FileDemo
     {
-        public override void GetFileText(string sourcePath)
+        public string? SourcePath { get; private set; }
+        public string? TargetPath { get; private set; }
+
+        public virtual void GetFileText(string sourcePath)
         {
             try
             {
-                FileInfo fileInfo = new FileInfo(sourcePath);
                 string[] lines = File.ReadAllLines(sourcePath);
                 foreach (string line in lines)
                 {
@@ -27,12 +31,11 @@ namespace working_with_file.FileAndFileInfo
                 Console.WriteLine(e.Message);
             }
         }
-        public override void FileTextCopy(string sourcePath, string targetPath)
+        public virtual void FileTextCopy(string sourcePath, string targetPath)
         {
-            FileInfo fileInfo = new FileInfo(sourcePath);
             try
             {
-                fileInfo.CopyTo(targetPath);
+                File.Copy(sourcePath, targetPath);
             }
             catch (Exception e)
             {
