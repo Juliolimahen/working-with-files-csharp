@@ -1,0 +1,15 @@
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\bin\Debug\net6.0\working-with-file.exe
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\bin\Debug\net6.0\working-with-file.deps.json
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\bin\Debug\net6.0\working-with-file.runtimeconfig.json
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\bin\Debug\net6.0\working-with-file.dll
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\bin\Debug\net6.0\working-with-file.pdb
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\obj\Debug\net6.0\working-with-file.csproj.AssemblyReference.cache
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\obj\Debug\net6.0\working-with-file.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\obj\Debug\net6.0\working-with-file.AssemblyInfoInputs.cache
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\obj\Debug\net6.0\working-with-file.AssemblyInfo.cs
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\obj\Debug\net6.0\working-with-file.csproj.CoreCompileInputs.cache
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\obj\Debug\net6.0\working-with-file.dll
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\obj\Debug\net6.0\refint\working-with-file.dll
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\obj\Debug\net6.0\working-with-file.pdb
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\obj\Debug\net6.0\working-with-file.genruntimeconfig.cache
+C:\ws-projetos\working-with-files-csharp\working-with-file\working-with-file\obj\Debug\net6.0\ref\working-with-file.dll
